@@ -1,5 +1,7 @@
-# Welcome to GitHub Desktop!
+# ete3 and TreeStyle
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+TreeStyle does not install properly and this has yaml config files so that one can perform
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+```
+from ete3 import TreeStyle
+```
