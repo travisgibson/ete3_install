@@ -1,0 +1,7 @@
+name: example-environment
+channels
+  - conda-forge
+  - etetoolkit
+dependencies:
+  - ete3
+  - pyqt
