@@ -1,5 +1,5 @@
 name: example-environment
-channels
+channels:
   - conda-forge
   - etetoolkit
 dependencies:
