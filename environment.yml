@@ -2,6 +2,7 @@ name: example-environment
 channels:
   - etetoolkit
   - conda-forge
+  - defaults
 dependencies:
   - ete3
   - ete_toolchain
