@@ -4,6 +4,7 @@ channels:
   - conda-forge
 dependencies:
   - ete3
+  - ete3_external_apps
   - pyqt
   - qtpy
   - sip
