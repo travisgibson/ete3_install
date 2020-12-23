@@ -5,3 +5,6 @@ channels:
 dependencies:
   - ete3
   - pyqt
+  - qtpy
+  - sip
+  - qt
